@@ -1,0 +1,5 @@
+runs/
+venv/
+yolov-env/
+datasets/
+results/
