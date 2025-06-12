@@ -3,3 +3,4 @@ venv/
 yolov-env/
 datasets/
 results/
+*.pt
