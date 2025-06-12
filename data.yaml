@@ -1,0 +1,7 @@
+# path: dataset  # opcional, se os caminhos forem relativos
+train: C:\workspace\oxford_tower\datasets\images\train
+val: C:\workspace\oxford_tower\datasets\images\val
+test: C:\workspace\oxford_tower\datasets\images\test
+
+nc: 1
+names: ['pessoa']
